@@ -1,0 +1,13 @@
+print('perform arithmetic operations ');
+A=int(input('enter the first number:'));
+B=int(input('enter the second number:'));
+add=A+B;
+print('addtion is',add);
+subtract=A-B;
+print('subtraction is',subtract);
+multiply=A*B;
+print('multiplication is',multiply);
+divide=A/B;
+print('division is',divide);
+modulus=A%B;
+print('modulus is',modulus);
